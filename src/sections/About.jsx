@@ -28,6 +28,11 @@ const About = () => {
                         <div className="rounded-3xl w-full sm:h-[326px] h-fit flex justify-center items-center">
                             <img src="/assets/grid3.png" alt="grid3" className="w-full sm:h-[276px] h-fit object-contain" />
                         </div>
+
+                        <div>
+                            <p className="grid-headtext">My Projects</p>
+                            <p className="grid-subtext">I have done several projects in data analysis and machine learning, and have experience in using Tableau, PowerBI experience.</p>
+                        </div>
                     </div>
                 </div>
             </div>
